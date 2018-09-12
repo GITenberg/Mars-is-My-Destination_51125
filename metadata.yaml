@@ -1,5 +1,8 @@
 _repo: Mars-is-My-Destination_51125
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51125-h/images/bcover.jpg
 creator:
   author:
     agent_name: Long, Frank Belknap
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25911
     wikipedia: http://en.wikipedia.org/wiki/Frank_Belknap_Long
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51125#Mars-is-My-Destination
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-04'
 gutenberg_type: Text
